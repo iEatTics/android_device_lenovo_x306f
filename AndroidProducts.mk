@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_X306F.mk
+    $(LOCAL_DIR)/lineage_x306f.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_X306F-user \
-    omni_X306F-userdebug \
-    omni_X306F-eng
+    lineage_x306f-user \
+    lineage_x306f-userdebug \
+    lineage_x306f-eng
