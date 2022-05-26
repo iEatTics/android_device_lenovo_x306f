@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo lineage_x306f-user
-add_lunch_combo lineage_x306f-userdebug
-add_lunch_combo lineage_x306f-eng
+add_lunch_combo twrp_x306f-user
+add_lunch_combo twrp_x306f-userdebug
+add_lunch_combo twrp_x306f-eng
